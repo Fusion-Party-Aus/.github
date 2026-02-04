@@ -172,6 +172,24 @@ Every README should include:
 
 ---
 
+## 🔄 Development Workflow
+
+### GitHub Flow Process
+
+We use **GitHub Flow** for all code changes. This ensures code review, automated testing, and safe deployment.
+
+**Core Rules:**
+1. Never commit directly to `main`
+2. All changes go through Pull Requests
+3. PRs require approval before merging
+4. Automated reviews run on every PR
+
+### Enforcement
+
+Commits pushed directly to `main` will be reverted immediately. Repeated violations result in repository access removal. This protects production stability and ensures collaborative review.
+
+---
+
 ## 🔒 Security
 
 ### Sensitive Data
@@ -278,7 +296,7 @@ Violations can be reported to: **contact@fusionparty.org.au**
 
 ### Questions?
 
-- **Discord** — Join our [community server](#) for real-time help
+- **Discord** — Join our [community server](https://fusionparty.org.au/discord) for real-time help
 - **Email** — [contact@fusionparty.org.au](mailto:contact@fusionparty.org.au)
 - **Issues** — Open an issue in the relevant repository
 
