@@ -1,8 +1,10 @@
 # Fusion Party Australia
 
-**Evidence-based politics for Australia's future.**
+**Socially free. Economically serious.**
 
-Fusion is building a free, fair, and innovative society through science, evidence, and ethical governance. We're a federal political party focused on civil liberties, climate action, and future-focused policies that position Australia as a global leader in innovation and sustainability.
+Fusion is reclaiming the public infrastructure, institutions, and language that have been ceded to privatisation and to the right. We build policy from evidence first: who owns what, what it costs, who benefits. Then we test it against our values, not the other way around. Every claim is sourced, every number is cited, every policy is costed.
+
+The villain is always a mechanism: a contract clause, a PPP structure, a tax exploit. Never a group of people.
 
 ---
 
@@ -17,7 +19,17 @@ Fusion is building a free, fair, and innovative society through science, evidenc
 
 ---
 
+## 🔥 What We're Reclaiming
+
+Eight fights, one frame. Name the mechanism, cost the fix:
+
+Restore the Fair Go · Solve Housing · Fix Tax Exploits · Build Small Business · Rebuild Communities · Update Schools · Transform Industries · Repair Environment
+
+---
+
 ## 📋 Key Policies
+
+The policies below put those eight fights into practice:
 
 - **🌍 Climate Rescue** — Net negative emissions & active planetary cooling
 - **🔮 Future Focused** — Longevity research & emerging technology investment
@@ -46,11 +58,13 @@ Fusion Party Australia was formed in **2021** through an amalgamation of five ex
 
 These parties, each with specialized expertise, fused to create something more powerful than the sum of their parts. The constituent parties had been contesting elections since **2010** and collectively won **76,861 votes** across 4 states in the 2019 federal election.
 
+In **2025**, Fusion merged again, this time with the Australian Progressives and Democracy First, to contest that year's federal election as a broader coalition. The Democracy First partnership has since ended: Fusion and Democracy First parted ways after the arrangement turned out to run counter to a number of Fusion's goals.
+
 ### Electoral History
 
 - **2022** — First federal election as Fusion: 19 candidates across NSW, QLD, SA, WA, and VIC
 - **2023** — Owen Miller contested the Aston by-election
-- **2025** — 22 candidates in federal election across 5 states
+- **2025** — 24 candidates in the federal election, contesting House of Representatives and Senate seats nationally
 
 ---
 
@@ -61,6 +75,8 @@ Australia's **preferential voting** system means your vote is never wasted. If y
 ✅ **Signal what you want changed** — Tell major parties you want cannabis legalised, stronger climate action, or evidence-based policy  
 ✅ **Keep your safety net** — Your vote still counts for Labor or Liberal in the final round  
 ✅ **Create momentum** — More people voting for new ideas forces major parties to adopt them  
+
+Fusion isn't a paper party. We've contested every federal election since 2022, and with 4,000+ members nationally, we're comfortably clear of the threshold for federal registration.
 
 **Your #1 vote is your loudest voice. Use it to demand the Australia you want to see.**
 
@@ -81,7 +97,7 @@ We believe in solutions that **reverse global heating**, not just slow it down.
 ## 💻 Get Involved
 
 ### Join the Party
-Become a member and help shape Australia's future:  
+Become a member of Fusion Party Australia:  
 👉 [**fusionparty.org.au/join**](https://fusionparty.org.au/join)
 
 ### Volunteer
@@ -131,6 +147,7 @@ Australia
 This organisation contains:
 
 - **Website code** — NationBuilder theme files and custom pages
+- **Membership portal** — In-development member sign-up and resignation flows (Cloudflare Pages + Functions)
 - **Policy documents** — Full policy positions and research
 - **Campaign materials** — Graphics, flyers, social media assets
 - **Developer tools** — Scripts and utilities for party operations
@@ -157,9 +174,8 @@ Code repositories are typically licensed under open source licenses (see individ
 
 ---
 
-## 🚀 Be Ahead of the Pack
+## 🚀 Reclaim Our Future
 
-Join a movement driven by **evidence**, **integrity**, and **optimism** for Australia's future.
+Ambition with receipts. Join a movement that names the mechanism and shows its work.
 
 **[Join Fusion →](https://fusionparty.org.au/join)**
-
